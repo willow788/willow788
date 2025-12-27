@@ -1,33 +1,59 @@
-
 # Hi 👋 I'm Srija  
-Chaos wizard, AI/ML nerd, and the reason “productive procrastination” exists.
+AI/ML enthusiast | ECE Undergrad | Building intelligent solutions one model at a time
 
-### 🚀 What I’m Doing  
-I’m an ECE undergrad with a brain wired for machine learning and the occasional existential crisis. I write code so things work, not just to look cool on LinkedIn.
+### 🚀 About Me  
+I'm an Electronics and Communication Engineering undergraduate passionate about leveraging machine learning and artificial intelligence to solve real-world problems. I love building projects that make an impact and contribute to the open-source community.
 
-### 💡 Stuff I Actually Give a Damn About  
-- Machine Learning & AI — because robots should do the boring parts  
-- Data Science — data doesn’t lie (people do)  
-- Python, SQL & nerding out over elegant solutions  
-- Open-source projects that don’t suck  
+When I'm not training models or debugging code, you'll find me exploring new technologies, contributing to collaborative projects, or diving deep into data science challenges.
 
-### 🛠 Tech Stack (My Toys)  
-- 🐍 Python (of course)  
-- 🧠 ML/AI frameworks: PyTorch, TensorFlow, scikit-learn  
-- 📊 Data tools: NumPy, Pandas, Matplotlib, Seaborn  
-- 💻 Web stuff: HTML/CSS/JS when forced  
-- 🧩 SQL & databases because data lives somewhere
+### 💡 What I'm Passionate About  
+- **Machine Learning & AI** — Creating intelligent systems that automate and optimize
+- **Data Science** — Extracting meaningful insights from complex datasets
+- **Software Development** — Writing clean, efficient, and scalable code
+- **Open Source** — Contributing to projects that make technology accessible to everyone
+- **Continuous Learning** — Always exploring new frameworks, tools, and methodologies
 
-### 📈 Fun Stats  
-- 💻 Repositories: constantly growing  
-- ☕ Coffee consumed per project: catastrophic  
-- 🧠 Bugs squashed: more than I expected
+### 🛠 Tech Stack  
+**Languages:**  
+- 🐍 Python | SQL | JavaScript | HTML/CSS
 
-### 💬 Let’s Connect  
-- GitHub: https://github.com/willow788  
-- LinkedIn: 
-- Email: 
+**ML/AI Frameworks:**  
+- 🧠 PyTorch, TensorFlow, Keras, scikit-learn
 
-Happy to collab on anything that isn’t boring.  
-If it’s boring, bribe me with caffeine.
+**Data Science & Analytics:**  
+- 📊 NumPy, Pandas, Matplotlib, Seaborn, Plotly
 
+**Tools & Technologies:**  
+- 💾 Git & GitHub for version control
+- 🗄️ SQL databases (MySQL, PostgreSQL)
+- 📓 Jupyter Notebooks for experimentation
+- 🔧 VS Code, Google Colab
+
+**Currently Exploring:**  
+- Deep Learning architectures
+- Natural Language Processing
+- Computer Vision applications
+- MLOps and model deployment
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willow788&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willow788&layout=compact&theme=radical)
+
+
+### 🎯 Current Goals  
+- 📚 Deepening my knowledge in advanced machine learning techniques
+- 🚀 Contributing to impactful open-source AI/ML projects
+- 🏆 Building a portfolio of production-ready ML applications
+- 🌐 Connecting with fellow developers and researchers
+
+### 💬 Let's Connect!   
+I'm always open to interesting conversations, collaboration opportunities, and connecting with fellow tech enthusiasts! 
+
+- 💼 **LinkedIn:** [@Srija De Chowdhury]
+- 📧 **Email:** [2004srijad@gmail.com]
+- 🐙 **GitHub:** [@willow788](https://github.com/willow788)
+
+---
+
+💡 *Open to collaborations on ML/AI projects, data science challenges, and open-source contributions! *  
+☕ *Powered by curiosity (and coffee)*
