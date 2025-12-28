@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Willow's%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<h1>👋 Hi, I'm Willow</h1>
+<h1>👋 Hi, I'm Srija</h1>
 <h3>🤖 Machine Learning Engineer | AI Enthusiast | B.Tech ECE Student</h3>
 
 </div>
