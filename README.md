@@ -121,7 +121,7 @@ const Willow = {
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=willow788&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=willow788&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=willow788&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=willow788&custom_title=Willow's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)
 
